@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Movie Browser</string>
+    <string name="search">Search for movies:</string>
+    <string name="editText">Type movie title here</string>
+    <string name="searchButton">SEARCH</string>
+    <string name="unknown">-</string>
+    <string name="countries">Countries:</string>
+    <string name="genres">Genres:</string>
+    <string name="originalTitle">Original Title:</string>
+    <string name="budget">Budget:</string>
+    <string name="boxoffice">Box Office:</string>
+    <string name="director">Directed by:</string>
+    <string name="screenplay">Screenplay by:</string>
+    <string name="music">Music by:</string>
+    <string name="photo">Director of Photography:</string>
+    <string name="loremIpsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at porta
+        lorem. Cras quis dui id sem sagittis tincidunt. Quisque eleifend pharetra faucibus. Aliquam
+        consectetur dictum lacus, nec porttitor est tincidunt ut. Nulla rhoncus, lectus vitae
+        faucibus condimentum, velit lacus sagittis mi, finibus finibus risus lectus id erat.
+        Sed non sem vel sapien venenatis finibus. Pellentesque finibus, arcu eget mattis rhoncus,
+        nulla dolor convallis dolor, a luctus purus erat id massa. Duis faucibus augue volutpat
+        odio aliquet tempus. Nulla eu euismod nisl. In pellentesque ligula nisl, et bibendum augue
+        faucibus sit amet. Sed nulla sem, faucibus quis tincidunt sit amet, fermentum vitae est.
+        Cras in libero mollis, tempor nulla sit amet, pretium tortor. Mauris sollicitudin,
+        nunc eu dapibus accumsan, tortor orci interdum diam, nec blandit nisl lorem vel est. Sed
+        at lectus massa. Vestibulum dapibus nisi sed accumsan molestie. Ut lectus leo, sagittis
+        quis vulputate ut, pulvinar ut lacus. Donec non purus non lorem tincidunt viverra. Duis
+        maximus orci a diam ullamcorper iaculis. Morbi nisi magna, pretium vitae tortor nec, tempus
+        mattis leo. Cras in cursus dui. Maecenas vel gravida quam. Morbi
+        dignissim nec justo vitae maximus. Nullam eget convallis mi, vel elementum quam.
+        Aliquam rutrum dui a iaculis imperdiet. Curabitur a viverra ligula, convallis suscipit
+        lectus. Cras volutpat auctor venenatis. Aenean dictum, ex vitae dapibus elementum, metus
+        enim egestas elit, a porta metus mi id dolor. Sed at lectus nisi. Pellentesque
+        habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        Nunc odio leo, egestas ac diam sit amet, mattis posuere enim. Donec volutpat, ante
+        quis dignissim venenatis, urna justo efficitur neque, vitae consequat augue turpis eget ex.
+        Nullam mollis turpis sit amet faucibus varius. Morbi quis est purus. Aliquam ac pharetra
+        nunc. Cras quis ex ipsum. Proin at aliquam nunc. Pellentesque sit amet diam vel tellus porta
+        condimentum sed id ante. Donec eleifend augue at lorem pretium ultricies. Proin maximus ex
+        et est egestas, eu tempus odio rhoncus.</string>
+    <string name="cast">Cast:</string>
+    <string name="details">Details:</string>
+    <string name="overview">Overview:</string>
+</resources>
