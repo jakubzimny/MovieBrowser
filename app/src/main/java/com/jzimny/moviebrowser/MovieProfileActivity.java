@@ -30,7 +30,7 @@ import java.util.ArrayList;
 
 public class MovieProfileActivity extends AppCompatActivity {
 
-    public static final String API_KEY = "cf8a8e624bb5e0c144a6607dcbf986c6";
+    //public static final String API_KEY =
     private static final String TAG = "MovieProfileActivity";
     private Movie movie;
     private TextView titleTV;

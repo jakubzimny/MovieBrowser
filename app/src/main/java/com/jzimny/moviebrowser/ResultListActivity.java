@@ -27,7 +27,7 @@ import java.util.ArrayList;
 
 public class ResultListActivity extends AppCompatActivity {
 
-    public static final String API_KEY = "cf8a8e624bb5e0c144a6607dcbf986c6";
+   // public static final String API_KEY
     public final static String EXTRA_MOVIE_ID = "com.jzimny.moviebrowser.MOVIE_ID";
     private static final String TAG = "ResultListActivity";
     private ArrayList<Movie> movieList;
